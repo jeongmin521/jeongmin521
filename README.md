@@ -20,11 +20,15 @@ Here are some ideas to get you started:
 <summary>About Me </summary>
 최정민<br>
 1998.05.21<br>
-jeongmin0521@naver.com
+<div style="display:flex; flex-direction:row;">
+    <a href="mailto:kwonbe99@gmail.com">
+        <img src="https://img.shields.io/badge/
+        Naver-03C75A?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    </a>
 </summary>
 </details>
 
-![Jeongmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongmin521&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongmin521&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongmin521&layout=compact)   ![Jeongmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongmin521&show_icons=true&theme=radical) 
 
 
 
