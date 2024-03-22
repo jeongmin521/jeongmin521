@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 1998.05.21
 jeongmin0521@naver.com
 </summary>
-
+</details>
 
 ![Jeongmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongmin521&show_icons=true&theme=radical)
 
