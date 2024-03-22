@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **jeongmin521/jeongmin521** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,8 +16,8 @@ Here are some ideas to get you started:
 
 <details>
 <summary>About Me </summary>
-최정민<br>
-1998.05.21<br>
+😄 최정민<br>
+🌱1998.05.21<br>
 <a href="mailto:jeongmin0521@naver.com">
 <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white"> 
 </a>
