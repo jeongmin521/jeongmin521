@@ -20,11 +20,9 @@ Here are some ideas to get you started:
 <summary>About Me </summary>
 최정민<br>
 1998.05.21<br>
-<div style="display:flex; flex-direction:row;">
-    <a href="mailto:jeongmin0521@naver.com">
-        <img src="https://img.shields.io/badge/
-        Naver-03C75A?style=for-the-badge&logo=Gmail&logoColor=white"> 
-    </a>
+<a href="mailto:jeongmin0521@naver.com">
+<img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white"> 
+</a>
 </summary>
 </details>
 
