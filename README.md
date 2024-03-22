@@ -18,15 +18,13 @@ Here are some ideas to get you started:
 
 <details>
 <summary>About Me </summary>
-최정민
-1998.05.21
+최정민<br>
+1998.05.21<br>
 jeongmin0521@naver.com
 </summary>
 </details>
 
-![Jeongmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongmin521&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongmin521&layout=compact)
+![Jeongmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongmin521&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongmin521&layout=compact)
 
 
 
