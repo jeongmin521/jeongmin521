@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 😄 최정민<br>
 🌱1998.05.21<br>
 📫<a href="mailto:jeongmin0521@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white"> </a>
+<img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </summary>
 </details>
 
