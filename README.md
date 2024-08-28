@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 
 
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongmin521&layout=compact)   ![Jeongmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongmin521&show_icons=true&theme=radical) 
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongmin521&layout=compact)   ![Jeongmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongmin521&show_icons=true&theme=radical) 
 
 
 
