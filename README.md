@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img src="https://img.shields.io/badge/springboot-08253c?style=for-the-badge&logo=springboot&logoColor=#6DB33F" />&nbsp
-  <img src="https://img.shields.io/badge/vue.js-1daabb.svg?style=for-the-badge&logo=vuedotjs-css&logoColor=#4FC08D" />&nbsp
+  <img src="https://img.shields.io/badge/vue.js-1daabb.svg?style=for-the-badge&logo=vue.js-css&logoColor=#4FC08D" />&nbsp
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
 </div>
 
