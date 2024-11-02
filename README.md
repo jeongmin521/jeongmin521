@@ -35,6 +35,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
 </div>
 
+<div align="center">
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
+</div>
 <br>
 
 
@@ -48,7 +51,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/POSTMAN-FF6C37.svg?stye=for-the-badge&logo=postman&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/POSTMAN-FF6C37.svg?stye=for-the-badge&logo=postman&logoColor=white" />&nbsp
 </div>
 
 <br>
